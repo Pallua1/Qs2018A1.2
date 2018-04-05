@@ -1,0 +1,9 @@
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\bin\Debug\WorkingTimeTest.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\bin\Debug\WorkingTimeTest.pdb
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\bin\Debug\WorkingTime.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\bin\Debug\WorkingTime.pdb
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\obj\Debug\SocialActivityTest.csprojResolveAssemblyReference.cache
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\obj\Debug\WorkingTimeTest.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivityTest\obj\Debug\WorkingTimeTest.pdb

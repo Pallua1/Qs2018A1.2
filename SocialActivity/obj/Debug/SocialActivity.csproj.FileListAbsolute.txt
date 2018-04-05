@@ -1,0 +1,6 @@
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivity\bin\Debug\WorkingTime.dll.config
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivity\bin\Debug\WorkingTime.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivity\bin\Debug\WorkingTime.pdb
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivity\obj\Debug\SocialActivity.csprojResolveAssemblyReference.cache
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivity\obj\Debug\WorkingTime.dll
+C:\Users\mhoch\Source\Repos\Qs2018A1.2\SocialActivity\obj\Debug\WorkingTime.pdb
